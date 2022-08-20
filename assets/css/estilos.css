@@ -1,3 +1,18 @@
 body{
   background-color: rgb(255, 145, 178);
 }
+
+.jinx{
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  width: 480px; 
+  height: 380px;
+  margin: 100px auto 100px auto;
+  padding-bottom: 10px;
+  border: 3px dashed;
+  
+
+
+  
+
+}
