@@ -3,14 +3,15 @@ body{
 }
 
 .Jinx{
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(255, 157, 189);
   text-align: center;
   width: 500px; 
   height: 400px;
   margin: 100px auto 100px auto;
   padding-bottom: 10px;
   border: 3px dashed;
-  
+ 
 }
+
 
 
