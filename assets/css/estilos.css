@@ -1,5 +1,7 @@
 body{
   background-color: rgb(255, 113, 156);
+  background-image: url("../img/fondo.jpg");
+ 
 }
 
 .Jinx{
@@ -10,8 +12,20 @@ body{
   margin: 100px auto 100px auto;
   padding-bottom: 10px;
   border: 3px dashed;
+  background-image: url("../img/fondo-div.jpg");
+  
  
 }
+
+.Jinx p{
+  color: azure;
+}
+.Jinx h2{
+  color: azure;
+  font-size: 27px;
+}
+
+
 
 
 
