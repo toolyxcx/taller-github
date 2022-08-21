@@ -1,3 +1,16 @@
 body{
   background-color: rgb(255, 145, 178);
 }
+.diana{
+  background-color:cadetblue;
+  width: 300px;
+  border-radius: 10%;
+  text-align: center;
+  margin: 100px auto 100px auto;
+  border: 3px dashed hwb(249 5% 14%);
+  padding:50px;
+}
+.diana img{
+    width: 300px;
+    border-radius:20%;
+}
